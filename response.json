@@ -1,5 +1,7 @@
 {
   "id": 1,
+  "team": "teamID",
+  "run": "runID",
   "suggestions": [
     "TRECCS-00091446-192",
     "TRECCS-00092282-192",
